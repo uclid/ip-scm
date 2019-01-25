@@ -1,0 +1,23 @@
+/*********************************************
+ * OPL 12.8.0.0 Data
+ * Author: Dixit
+ * Creation Date: Jan 24, 2019 at 12:56:24 PM
+ *********************************************/
+floors = 10;
+
+E = {
+	<1,7,5,7>, //removing this works
+	<2,2,0,2>, //removing this works
+	<3,1,1,4>,
+	//<4,8,7,9>, //profit increases if we remove this and keep 1
+	<5,9,8,9>
+};
+
+R = {
+	<1, 1>,
+	<2, 2>,
+	<3, 3>,
+	<4, 5>,
+	<5, 7>,
+	<6, 9>
+};
